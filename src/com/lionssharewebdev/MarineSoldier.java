@@ -3,14 +3,10 @@ package com.lionssharewebdev;
 /**
  * Created by adrienne on 7/24/17.
  */
-public class MarineSoldier extends Soldier{
-
-    public MarineSoldier(String soldierName, String soldierBranchOfService, String soldierRank, String soldierIDNo) {
-        super(soldierName, soldierBranchOfService, soldierRank, soldierIDNo);
-    }
+class MarineSoldier extends Soldier{
 
     @Override
-    public void Speak() {
-        System.out.print("Oorah!");
+    void speak() {
+        System.out.println("Oorah!");
     }
 }

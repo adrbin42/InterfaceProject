@@ -5,12 +5,8 @@ package com.lionssharewebdev;
  */
 public class ArmySoldier extends Soldier{
 
-    public ArmySoldier(String soldierName, String s) {
-        super(soldierName, soldierBranchOfService, soldierRank, soldierIDNo);
-    }
-
     @Override
-    public void Speak() {
-        System.out.print("This is bone!");
+    void speak() {
+        System.out.println("This is bone!");
     }
 }

@@ -4,48 +4,32 @@ package com.lionssharewebdev;
  * Created by adrienne on 7/24/17.
  */
 public abstract class Soldier implements SharpShooter, HandToHand, MartialArts {
-    private String soldierName;
-    private String soldierBranchOfService;
-    private String soldierRank;
-    private String soldierIDNo;
+    private String name;
+    private String rank;
+    private String iDNo;
 
-    public Soldier(String soldierName, String soldierBranchOfService, String soldierRank, String soldierIDNo) {
-        this.soldierName = soldierName;
-        this.soldierBranchOfService = soldierBranchOfService;
-        this.soldierRank = soldierRank;
-        this.soldierIDNo = soldierIDNo;
+    public String getName() {
+        return name;
     }
 
-    public String getSoldierName() {
-        return soldierName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public void setSoldierName(String soldierName) {
-        this.soldierName = soldierName;
+    public String getRank() {
+        return rank;
     }
 
-    public String getSoldierBranchOfService() {
-        return soldierBranchOfService;
+    public void setRank(String rank) {
+        this.rank = rank;
     }
 
-    public void setSoldierBranchOfService(String soldierBranchOfService) {
-        this.soldierBranchOfService = soldierBranchOfService;
+    public String getiDNo() {
+        return iDNo;
     }
 
-    public String getSoldierRank() {
-        return soldierRank;
-    }
-
-    public void setSoldierRank(String soldierRank) {
-        this.soldierRank = soldierRank;
-    }
-
-    public String getSoldierIDNo() {
-        return soldierIDNo;
-    }
-
-    public void setSoldierIDNo(String soldierIDNo) {
-        this.soldierIDNo = soldierIDNo;
+    public void setiDNo(String iDNo) {
+        this.iDNo = iDNo;
     }
 
     public String Sleep(){
@@ -54,7 +38,7 @@ public abstract class Soldier implements SharpShooter, HandToHand, MartialArts {
     }
 
     public String Eat(){
-        String chew = "Chew loudly";
+        String chew = "Chews loudly";
         return chew;
     }
 
@@ -63,35 +47,30 @@ public abstract class Soldier implements SharpShooter, HandToHand, MartialArts {
         return canWalk;
     }
 
-    public abstract void Speak();
+    abstract void speak();
 
     @Override
-    public void chokehold() {
-
+    public void implementsChokeHold() {
+        System.out.println("Combatant down!");
     }
 
     @Override
-    public void judo() {
-
+    public void giveJudoKick() {
+        System.out.println("Combatant injured!");
     }
 
     @Override
-    public void hitTargetOneMileAway() {
-
+    public void hitsTarget() {
+        System.out.println("Target is dead!");
     }
 
     @Override
-    public void aikido() {
-
+    public void giveAikidoChop() {
+        System.out.println("Missed combatant!");
     }
 
     @Override
-    public void twistarm() {
-
-    }
-
-    @Override
-    public void hitTargetTwoMilesAway() {
-
+    public void twistsArm() {
+        System.out.println("Combatant arm broken!");
     }
 }
