@@ -3,10 +3,11 @@ package com.lionssharewebdev;
 /**
  * Created by adrienne on 7/24/17.
  */
-public abstract class Soldier implements SharpShooter, HandToHand, MartialArts {
+public abstract class Soldier implements SharpShooter, HandToHand, MartialArts, SetsBombs {
     private String name;
     private String rank;
     private String iDNo;
+    private int explodesInSecs = 5;
 
     public String getName() {
         return name;
@@ -72,5 +73,12 @@ public abstract class Soldier implements SharpShooter, HandToHand, MartialArts {
     @Override
     public void twistsArm() {
         System.out.println("Combatant arm broken!");
+    }
+
+    @Override
+    public String toString() {
+        return "Bomb {" +
+                "explodesInSecs=" + explodesInSecs +
+                '}';
     }
 }

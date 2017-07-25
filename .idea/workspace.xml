@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="675fe910-17c8-4d84-917f-173abad5dc53" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/AirForceSoldier.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/AirForceSoldier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/HandToHand.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/HandToHand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/MarineSoldier.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/MarineSoldier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/MartialArts.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/MartialArts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/SharpShooter.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/SharpShooter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/Soldier.class" afterPath="$PROJECT_DIR$/out/production/InterfaceProject/com/lionssharewebdev/Soldier.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/SetsBombs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/AirForceSoldier.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/AirForceSoldier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/ArmySoldier.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/ArmySoldier.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/Main.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/MarineSoldier.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/MarineSoldier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/MartialArts.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/MartialArts.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java" afterPath="$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,42 +22,19 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-77">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java">
+      <file leaf-file-name="SetsBombs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/SetsBombs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
-                <element signature="e#1109#1110#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
-                <element signature="e#1314#1315#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
-                <element signature="e#1414#1415#0" expanded="true" />
-                <element signature="e#1473#1474#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,18 +91,21 @@
       <file leaf-file-name="HandToHand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MartialArts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/MartialArts.java">
+      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -146,8 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -169,21 +139,22 @@
         <option value="$PROJECT_DIR$/src/AirForceSoldier.java" />
         <option value="$PROJECT_DIR$/src/MarineSoldier.java" />
         <option value="$PROJECT_DIR$/src/ArmySoldier.java" />
-        <option value="$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java" />
-        <option value="$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/MartialArts.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/ArmySoldier.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/MarineSoldier.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/AirForceSoldier.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java" />
+        <option value="$PROJECT_DIR$/src/com/lionssharewebdev/SetsBombs.java" />
+        <option value="$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java" />
+        <option value="$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java" />
         <option value="$PROJECT_DIR$/src/com/lionssharewebdev/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="23" />
-    <option name="width" value="1306" />
+    <option name="x" value="382" />
+    <option name="y" value="40" />
+    <option name="width" value="1182" />
     <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -538,7 +509,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="23" width="1306" height="870" extended-state="0" />
+    <frame x="382" y="40" width="1182" height="870" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -549,13 +521,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3982522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3982522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09264931" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10236887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -592,14 +564,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/ArmySoldier.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/SetsBomb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -625,11 +594,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/ArmySoldier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -641,7 +613,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/SetsBombs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -649,41 +629,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Soldier.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/SharpShooter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/HandToHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-            <element signature="e#1414#1415#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lionssharewebdev/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
           <folding />
         </state>
       </provider>

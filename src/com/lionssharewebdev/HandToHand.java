@@ -6,4 +6,8 @@ package com.lionssharewebdev;
 public interface HandToHand {
     void implementsChokeHold();
     void twistsArm();
+    default void show()
+    {
+        System.out.println("Default Method Executed");
+    }
 }

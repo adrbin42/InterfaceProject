@@ -48,6 +48,8 @@ public class Main {
         aMarineSoldier.giveAikidoChop();
         aMarineSoldier.giveJudoKick();
         aMarineSoldier.implementsChokeHold();
+        aMarineSoldier.toString();
+        aMarineSoldier.show();
 
     }
 }
